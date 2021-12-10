@@ -1,2 +1,2 @@
-# online-payment-transactions-app
+# online-payments-transactions-app
 project file
